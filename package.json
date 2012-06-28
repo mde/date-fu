@@ -1,6 +1,6 @@
 {
-  "name": "date-utils",
-  "description": "Utilities for working with JavaScript Dates",
+  "name": "date-fu",
+  "description": "Utilities for working with JavaScript Dates. Plays nicely with TimezoneJS.",
   "keywords": [
     "date",
     "strftime"
@@ -10,7 +10,7 @@
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mde/date-utils.git"
+    "url": "git://github.com/mde/date-fu.git"
   },
   "engines": {
     "node": "*"

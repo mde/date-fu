@@ -1,5 +1,5 @@
 
-var p = new jake.NpmPublishTask('date-utils', [
+var p = new jake.NpmPublishTask('date-fu', [
   'Jakefile'
 , 'README.md'
 , 'package.json'

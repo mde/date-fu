@@ -1,11 +1,8 @@
-date-utils
+Date-Fu
 ==========
 
-Utilities for working with JavaScript Dates
-
-* * * * *
-
-Some useful methods for dealing with dates, including:
+Utilities for working with JavaScript Dates. Plays nicely with TimezoneJS.
+Includes:
 
 -   `strftime` – formats dates based on a string
     input.
