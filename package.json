@@ -1,0 +1,19 @@
+{
+  "name": "date-utils",
+  "description": "Utilities for working with JavaScript Dates",
+  "keywords": [
+    "date",
+    "strftime"
+  ],
+  "version": "0.4.0",
+  "author": "Matthew Eernisse <mde@fleegix.org> (http://fleegix.org)",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mde/date-utils.git"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
+
