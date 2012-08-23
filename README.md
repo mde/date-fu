@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/mde/date-fu.png)](http://travis-ci.org/mde/date-fu)
 Date-Fu
 ==========
 
